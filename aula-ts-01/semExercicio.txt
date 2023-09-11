@@ -1,0 +1,3 @@
+Só teve aula explicando o pq do TypeScript ter sido criado. 
+
+IMPORTANTE: Possui tipagem forte!
